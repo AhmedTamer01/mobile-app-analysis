@@ -1,15 +1,31 @@
 # Mobile App Analysis
 
-## Description
-Data analysis and insights extracted from a comprehensive mobile app dataset.
+## Project Overview & Methodology
 
-## Category
-Data Analysis
+##**Import Dependencies**
 
-## Tech Stack / Tags
-- Python
-- Pandas
-- EDA
+
+##**Cleaning Data & Preparation**
+
+##**Feature Engineering**
+
+##**Text Preprocessing**
+
+##**Visualizations**
+
+##**Conclusion & Results**
+
+
+
+## Tech Stack & Libraries Used
+
+- `pandas`
+- `matplotlib`
+- `re
+`
+- `collections`
+- `seaborn`
+- `deep_translator`
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
